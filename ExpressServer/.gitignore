@@ -2,4 +2,3 @@ node_modules
 config/dev.js
 
 .env.development
-.env.production
